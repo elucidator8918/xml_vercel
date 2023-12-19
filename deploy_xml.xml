@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<data>
-    <message>Hello, this is a sample XML page!</message>
-</data>
+<Response>
+<Say voice="woman">Thanks for trying our documentation. Enjoy!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
